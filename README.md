@@ -5,9 +5,9 @@ compare AI generated code and hand coded functions related to Parseval's theorem
 
 
 ├─ scripts/
-│  └─ github_energy_drift_scraper.py
+│        └─ github_energy_drift_scraper.py
 ├─ data/
-│  └─ energy_drift_incidents.csv   (auto-generated)
+│      └─ energy_drift_incidents.csv   (auto-generated)
 └─ .github/
-   └─ workflows/
-      └─ energy-drift-scan.yml
+     └─ workflows/
+        └─ energy-drift-scan.yml
