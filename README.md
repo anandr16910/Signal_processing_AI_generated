@@ -2,7 +2,7 @@
 compare AI generated code and hand coded functions related to Parseval's theorem. 
 
 
-Signal_processing_AI_generated/
+
 
 ├─ scripts/
 │  └─ github_energy_drift_scraper.py
